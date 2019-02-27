@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Romance by Reina
 
 You can use the [editor on GitHub](https://github.com/reina-rose/reina-rose.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
